@@ -1,0 +1,9 @@
+name: classify_dart
+version: 0.1.0
+author: David Peek <ninjascript@gmail.com>
+description: A library for classifying Dart.
+homepage: https://github.com/dpeek/dart-classify-dart
+dependencies:
+  analyzer_experimental: any
+dev_dependencies:
+  unittest: any
