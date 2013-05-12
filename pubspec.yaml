@@ -4,6 +4,6 @@ author: David Peek <ninjascript@gmail.com>
 description: A library for classifying Dart.
 homepage: https://github.com/dpeek/dart-classify-dart
 dependencies:
-  analyzer_experimental: any
+  analyzer_experimental: ">=0.5.7"
 dev_dependencies:
   unittest: any
