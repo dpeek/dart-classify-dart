@@ -1,6 +1,6 @@
 library classifyDartTests;
 
-import '../lib/src/classify_dart.dart';
+import 'package:classify_dart/classify_dart.dart';
 import 'package:unittest/unittest.dart';
 
 void main() {
